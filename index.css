@@ -1,0 +1,14 @@
+.uno {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+}
+.hola {
+    width: 1440px;
+    height: 3035px;
+}
+.hola2{
+     width: 1440px;
+    height: 90px;
+}

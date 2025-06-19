@@ -1,0 +1,70 @@
+.Opciones{
+    width: 1440px;
+    height: 42px;
+    background-color: #F5F5F5;
+    color: #666666;
+    
+}
+.Options{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 700px;
+    padding-top: 1rem;
+    margin-left: 3rem;
+}
+.option1 {
+    width: 214px;
+    height: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 3rem;
+}
+.nose{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8rem ;
+}
+.delivery{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+    width: 136px;
+    height: 18px;
+}
+.ubicacion{
+    width: 18px;
+    height: 18px;
+}
+.order{
+    width: 128px;
+    height: 18px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+}
+.carro {
+    width: 18px;
+    height: 18px;
+}
+.ofertas{
+    width: 90px;
+    height: 18px;
+    gap: 5px;
+    display: flex;
+    align-items: center;
+}
+.porcentaje{
+    width: 18px;
+    height: 18px;
+}
+.linea{
+    width: 1px;
+    height: 18px;
+    color: #D9D9D9;
+}
+
