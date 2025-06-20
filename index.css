@@ -53,3 +53,48 @@
 .all-al{
     margin-left: 1rem;
 }
+
+.best{
+   
+    width: 1440px;
+    height: 7.3rem;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: row;
+}
+.unno {
+    display: flex;
+    flex-direction: column;
+    margin-right: 72rem;
+}
+.ttphone{
+    width: 378px;
+  
+}
+.llin {
+    width: 378px;
+    height: 1px;
+}
+.doss{
+    display: flex;
+    flex-direction: row;
+}
+.aal{
+    font-size: 16px;
+    color: #222222;
+}
+.alll{
+    margin-left: 1rem;
+}
+.centrado {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem; 
+}
+.unno {
+  display: flex;
+  flex-direction: column;
+ 
+}
