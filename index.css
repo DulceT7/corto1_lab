@@ -12,3 +12,44 @@
      width: 1440px;
     height: 90px;
 }
+.hola3{
+     width: 1440px;
+    height: 90px;
+}
+.hola4{
+    width: 1440px;
+    height: 224rem;
+}
+
+.jdks{
+    width: 1440px;
+    height: 7.3rem;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: row;
+}
+.uno-un {
+    display: flex;
+    flex-direction: column;
+    margin-right: 72rem;
+}
+.dul{
+    width: 378px;
+    height: px;
+}
+.linns {  
+    width: 378px;
+    height: 1px;
+}
+.dos-doe{
+    display: flex;
+    flex-direction: row;
+}
+.al-al{
+    font-size: 16px;
+    color: #222222;
+}
+.all-al{
+    margin-left: 1rem;
+}

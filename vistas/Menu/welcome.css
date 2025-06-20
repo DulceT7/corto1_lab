@@ -1,0 +1,98 @@
+.Menus{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2.5rem;
+    margin-left: 1rem;
+    margin-top: 1.3rem;
+}
+.btn1{
+    width: 113px;
+    height: 36px;
+    background-color: #008ECC ;
+    color: white;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn2{
+    width: 113px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn3{
+    width: 153px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn4{
+    width: 101px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn5{
+    width: 121px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn6{
+    width: 96px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn7{
+    width: 176px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn8{
+    width: 195px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.abajo{
+    width: 18px;
+    height: 18px;
+    margin-left: 5px;
+}
+.bajo{
+    width: 18px;
+    height: 18px;
+    margin-left: 5px;
+}
