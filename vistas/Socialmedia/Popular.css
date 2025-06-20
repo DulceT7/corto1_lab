@@ -1,0 +1,27 @@
+.mvp{
+    width: 250px;
+    height: 352px;
+    display: flex;
+    flex-direction: column;
+}
+.lineaaa3{
+    width: 165px;
+    height: 1px;
+}
+.lisstado{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2.5rem;
+    margin-left: 1rem;
+    gap: 1rem;
+}
+.lista{
+    display: flex;
+    flex-direction: column;
+    margin-left: -2rem;
+    margin-top: 5rem;
+    font-size: 13px;
+}
+.compu{
+    font-size: 15px;
+}
